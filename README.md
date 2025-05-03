@@ -110,7 +110,8 @@ The maintainer of this repository is not responsible for how others might use th
 
 If you find this project helpful, please consider supporting its continued development:
 
-- **Bitcoin**: Scan the QR code below or use the address **`bc1qj85mvdr657nkzef4gppl9xy8eqerqga3suaqc3`**
+- **Bitcoin**: Scan the QR code below or use the address  
+  **`bc1qj85mvdr657nkzef4gppl9xy8eqerqga3suaqc3`**
   
   ![BTC Donation QR Code](assets/qr-btc-address-200.png)
 
